@@ -39,11 +39,12 @@ O objetivo é realizar os seguintes passos:
 ![adicionar-todos](imagens/add_all.png)
 > o print a seguir mostra um "commit -m", que serve para dá um commit nos arquivos. O -m serve para colocar uma mensagem.
 > "feat" é um padrão de commit muito utilizado em grandes projetos, ele facilita na hora de identificar o tipo de commit.
-![git-commit](imagens/git_commit.png.png)
+![git-commit](imagens/git_commit.png)
 ![push-origin](imagens/push_origin.png)
 
 ### 6. ✅ **Abertura de uma Pull Request** (PR) para revisão.
 
 ![nova-pr](imagens/new_pr.png)
+![criar-pr](imagens/create-pr.png)
 
 ---
